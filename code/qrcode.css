@@ -1,0 +1,43 @@
+.main-canva{
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 800px;
+  background-color: #d5e1ef;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.outer-box{
+  height: 500px;
+  width: 319px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0px 9px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding-top: 15px;
+}
+
+.qr-image{
+  height: 287px;
+  border-radius: 10px;
+}
+.p1{
+  font-family: Outfit;
+  font-weight: 700;
+  font-size: 22px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.p2{
+  font-family: Outfit;
+  font-weight: 400;
+  color: gray;
+  padding-left: 30px;
+  padding-right: 30px;
+}
